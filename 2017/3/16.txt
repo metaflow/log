@@ -1,0 +1,4 @@
+codeforces 449.A
+I always have a "sneaky" feeling when I submit solution I am totaly not sure about.
+Why bother to submit? It's better to test first. Especially for this problem - bruteforce is so simple and fast.
+Plus simple (and proper) math analysis revealed correct solution.
