@@ -1,0 +1,4 @@
+CF 378.D
+
+- solution was OK but I did binary search over wrong variable (number of students instead of days)
+- finally implemented binary search lower correctly

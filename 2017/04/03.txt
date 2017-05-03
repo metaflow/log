@@ -1,0 +1,1 @@
+failed to solve HR permutation-happiness. The right approach was not to move from n towards base case. Instead we try to change existing solution for n - 1 and it turns out that it yeilds nice recursive solution.

@@ -1,0 +1,5 @@
+codeforces 349.D
+tips:
+- try to find solutions to couple of different configurations
+- state assumptions
+- max int sometimes is not big enought

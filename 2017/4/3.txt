@@ -1,0 +1,4 @@
+tco 2017A
+- made a mistake in 500 of iterating over too much space wich lead to TL
+- 1000 was a geometry and it looks like geometry is not my best :) plenty of
+work to be done on practice side as well on library functions (like segment intersections)

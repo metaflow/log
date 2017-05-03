@@ -1,0 +1,3 @@
+codeforces 789.D
+I have spent too much time trying to figuring out possible cases of the problem.
+And checking connectivity as well. Problem is quite straightforward but constains a lot of cases each of them should be addressed .
